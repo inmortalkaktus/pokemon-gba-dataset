@@ -1,0 +1,33 @@
+Descripción: Morado, Desde tiempos inmemoriales, a Lunala se le ha considerado heraldo de la Luna, y a menudo se han referido a este Pokémon como “la criatura que invoca a la Luna”. Lunala absorbe luz constantemente y la convierte en energía. Con sus alas extendidas para absorber la luz que hay a su alrededor y un brillo comparable al de la Luna creciente, este Pokémon recuerda a un impresionante cielo nocturno.
+
+Resumen: Un heraldo de la luna de color morado, invoca a la luna, alas, luna creciente, cielo nocturno
+
+###
+
+Descripción: Amarillo, Kakuna está basado en una pupa. Es una especie de capullo muy duro, de color amarillo, con dos enormes ojos de color negro con forma triangular, tiene dos brazos en forma de guadaña en el medio de su cuerpo. Kakuna habita en zonas de hierba alta y en las zonas arboladas como en bosques para aprovechar el follaje como escondite, como ultimo recurso, si es encontrado y atacado usará un aguijón o púa venenosa para defenderse, pues a pesar de que su pupa es dura, su cuerpo en el interior es muy frágil. En algunas ocasiones se les ha visto ocultos en zonas cercanas a colmenas de Beedrill para que estos los defiendan de posibles ataques. En la Pocket Monsters Encyclopedia se menciona que cuando un Weedle comienza a comer muchas hojas, lo hace en preparación para evolucionar en un Kakuna.
+
+Resumen: Una pupa amarilla, capullo duro, ojos grandes y negros con forma triangular, brazos guadaña, aguijón
+
+###
+
+Descripción: Rojo, Incineroar está basado tanto en un tigre como en un rudo (como su categoría indica), nombre que recibe en la lucha libre aquel que interpreta a un personaje malvado o a un villano, los cuales utilizan precisamente trucos sucios, lo que explica su tipo siniestro.
+
+Resumen: Un tigre rojo, rudo, lucha libre, malvado, siniestro
+
+###
+
+Descripción: Gris, Ferroseed está basado tanto en un durián como en el fruto del cardillo o bardana. Su aspecto es el de una bola metálica cubierta de espinas verdes. Posee unos ojos amarillos contorneados por un borde verdoso.
+
+Resumen: Un durián gris, bola metálica, espinas verdes, ojos amarillos con contorno verdoso.
+
+###
+
+Descripción: Azul, Gible está basado en un tiburón martillo. Su cuerpo es de color azul, con el vientre rojo y rayas celestes en sus orejas y en la espalda. Es pequeño, con grandes colmillos afilados. Tiene pequeñas extremidades y una gran aleta en la cabeza.
+
+Resumen: Un tiburón martillo azul, vientre rojo, rayas celestes en orejas y espalda, pequeño, colmillos afilados, extremidades pequeñas, gran aleta en la cabeza.
+
+###
+
+Descripción: {input1}
+
+Resumen:
